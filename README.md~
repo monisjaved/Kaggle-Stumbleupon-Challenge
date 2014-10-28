@@ -18,5 +18,3 @@ Techniques Used:
   Tf-Idf was done along with stemming and tokenizing to improve accuracy
   PunktWordTokenizer
   SnowBallStemmer
-
-To Use please place train.tsv and test.tsv in the same directory and run any of the files
