@@ -2,6 +2,7 @@ minor-project
 =============
 
 Undergrad minor (7th sem) project on classification of webpages as Evergreen or Ephemeral based on their webpage content
+Contest Link : http://www.kaggle.com/c/stumbleupon
 Techniques Used:
   RandomForest using all fields except body
   20 Fold CV Score : 80.7915%
